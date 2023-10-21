@@ -287,6 +287,10 @@ You can install them using pip if you don't have them already:
 pip install numpy pandas matplotlib seaborn scikit-learn 
 ```
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 ## References
 
 - [Simple Linear Regression for Salary Data](https://www.kaggle.com/code/vivinbarath/simple-linear-regression-for-salary-data/notebook)
